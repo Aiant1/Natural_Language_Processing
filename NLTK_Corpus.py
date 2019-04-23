@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 16 19:37:36 2019
 
-@author: ASUS
+@author: Antika
 """
 
 import nltk

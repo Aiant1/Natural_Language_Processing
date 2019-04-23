@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 18 21:09:30 2019
 
-@author: ASUS
+@author: antika
 """
 
 from nltk.corpus import wordnet

@@ -1,15 +1,10 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 18 14:36:10 2019
 
-@author: ASUS
 """
 
-# -*- coding: utf-8 -*-
-"""
 Created on Fri Jan 18 11:42:28 2019
 
-@author: ASUS
+@author: Antika
 """
 import sys
 import re
